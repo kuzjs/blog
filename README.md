@@ -1,0 +1,2 @@
+# blog
+Kaagazz blog.
